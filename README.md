@@ -1,5 +1,5 @@
 # Command-Line-Weather
-![](https://img.shields.io/github/size/richiedevr/Command-Line-Weather/live_weather.py?style=for-the-badge)
+![](https://img.shields.io/github/size/richiedevr/Command-Line-Weather/live_weather.py?style=for-the-badge) ![](https://img.shields.io/github/languages/count/richiedevr/command-line-weather?style=for-the-badge)
 
 command line tool to scrape the web for live weather reports for any city used as input 
 
